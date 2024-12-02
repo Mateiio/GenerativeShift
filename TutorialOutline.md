@@ -8,17 +8,24 @@
 December 10 2024  
 
 ### Intro: 
-Welcome to the "__Image processing hands on workshop__" workshop, scheduled to take place on October 31 2023, within the **Data Science track** of the ABRHS Research Club. 
+Welcome to the "__Image processing hands on workshop__", scheduled to take place on December 10 2024, within the **Data Science track** of the ABRHS Research Club. 
   
 ### Workshop Objective:  
-Hands on tutorial session focused on fundamentals of scientific data visualization for data science projects, including interactive time series plots, geo plots, image plots, labeling and color schemes.  
-   
+Hands on tutorial session focused on fundamentals of image processing for data science projects, including kernel convolution, and edge detection using python and open-source Python libraries for scientific computing like numpy and pandas. 
+
 ### Workshop Outline: 
- - basic plots:
-   - time series plots using [Prophet](https://facebook.github.io/prophet/)
-   - forecasting cross-validation results plots using [Prophet](https://facebook.github.io/prophet/)
-   - choropleth maps using [geopandas](https://geopandas.org/en/stable/#) and [plotly](https://plotly.com/python/choropleth-maps/#choropleth-map-with-plotlyexpress)
-   - image plots
- - labeling, color schema  
- - interactive plots via [plotly](https://plotly.com/)  
- - real life results using [BTS T100 dataset](https://www.transtats.bts.gov/Tables.asp?QO_VQ=EEE&QO_anzr=Nv4%FDPn44vr4%FDf6n6v56vp5%FD%FLS14z%FDHE%FDg4nssvp%FM-%FDNyy%FDPn44vr45&QO_fu146_anzr=Nv4%FDPn44vr45)
+Concepts:
+
+- Meet Lena  
+- What is an image?  
+- What actually is an image?  
+- The most basic coding pattern for image processing  
+- Real example of image processing  
+- Kernel convolution:  
+  1) Vertical edges   
+  2) Horizontal edges   
+  3) Blurring   
+  4) Sharpening  
+  5) Embossing
+     
+- Edge Detection  
