@@ -10,7 +10,8 @@ December 10 2024
 ## Welcome to the "__Image processing hands on workshop__", scheduled to take place on December 10 2024, within the **Data Science track** of the ABRHS Research Club. 
   
 ### Workshop Objective:  
-Hands on tutorial session focused on fundamentals of image processing for data science projects, including kernel convolution, and edge detection using python and open-source Python libraries for scientific computing like numpy and pandas. 
+Hands on tutorial session focused on fundamentals of image processing for data science projects, including kernel convolution, and edge detection using python and open-source Python libraries for scientific computing like numpy and pandas:  
+[ImageProcessingForDataScience_Workshop_ABRHS_ResearchClub.ipynb](https://github.com/Mateiio/GenerativeShift/blob/main/ImageProcessingForDataScience_Workshop_ABRHS_ResearchClub.ipynb)  
 
 ### Workshop Outline: 
 Concepts:
@@ -28,3 +29,5 @@ Concepts:
   5) Embossing
      
 - Edge Detection  
+- Connection to DeepLearning
+  
