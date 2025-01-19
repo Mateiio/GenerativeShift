@@ -27,4 +27,5 @@ Concepts:
   4) Sharpening  
   5) Embossing
      
-- Edge Detection  
+- Edge Detection
+- Connection to DeepLearning
