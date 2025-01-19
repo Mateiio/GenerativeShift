@@ -1,0 +1,56 @@
+https://earthobservatory.nasa.gov/collection/1676/amazon-deforestation
+https://eoimages.gsfc.nasa.gov/images/imagerecords/145000/145888/deforestationtimeseriesani_2013_2018.gif
+
+matei\repos\data\MultiModalGenAI\deforestation\
+deforestationtimeseriesani_2013_2018.gif
+caguanriver_tmo_2000350_lrg.jpg
+canguanriver_tmo_201719_lrg.jpg
+
+
+data\MultiModalGenAI\deforestation\EldoradoNationalForest
+
+Deforest01
+https://www.globalforestwatch.org/map/?mainMap=eyJzaG93QW5hbHlzaXMiOnRydWV9&map=eyJjZW50ZXIiOnsibGF0IjozOC44MTUyMTI3MjA4MjQ0LCJsbmciOi0xMjAuMzM0NzM4NzY4NzY0NDd9LCJ6b29tIjoxMy41MDkyMzcyNTUyNTU5NywiYmFzZW1hcCI6eyJ2YWx1ZSI6InNhdGVsbGl0ZSIsImNvbG9yIjoiIiwibmFtZSI6InBsYW5ldF9tZWRyZXNfbm9ybWFsaXplZF9hbmFseXRpY18yMDI0LTExX21vc2FpYyIsImltYWdlVHlwZSI6ImFuYWx5dGljIn0sImNhbkJvdW5kIjpmYWxzZSwiZGF0YXNldHMiOlt7ImRhdGFzZXQiOiJwb2xpdGljYWwtYm91bmRhcmllcyIsImxheWVycyI6WyJkaXNwdXRlZC1wb2xpdGljYWwtYm91bmRhcmllcyIsInBvbGl0aWNhbC1ib3VuZGFyaWVzIl0sIm9wYWNpdHkiOjEsInZpc2liaWxpdHkiOnRydWV9LHsiZGF0YXNldCI6InRyZWUtY292ZXItZ2Fpbi01eSIsImxheWVycyI6WyJ0cmVlLWNvdmVyLWdhaW4tNXkiXSwib3BhY2l0eSI6MSwidmlzaWJpbGl0eSI6dHJ1ZX0seyJkYXRhc2V0IjoidHJlZS1jb3Zlci1sb3NzIiwibGF5ZXJzIjpbInRyZWUtY292ZXItbG9zcyJdLCJvcGFjaXR5IjoxLCJ2aXNpYmlsaXR5Ijp0cnVlLCJ0aW1lbGluZVBhcmFtcyI6eyJzdGFydERhdGUiOiIyMDAxLTAxLTAxIiwiZW5kRGF0ZSI6IjIwMjMtMTItMzEiLCJ0cmltRW5kRGF0ZSI6IjIwMjMtMTItMzEifX0seyJkYXRhc2V0IjoidHJlZS1jb3ZlciIsImxheWVycyI6WyJ0cmVlLWNvdmVyLTIwMTAiXSwib3BhY2l0eSI6MSwidmlzaWJpbGl0eSI6dHJ1ZX1dfQ%3D%3D&mapPrompts=eyJvcGVuIjp0cnVlLCJzdGVwc0tleSI6InJlY2VudEltYWdlcnkifQ%3D%3D 
+
+
+calif02
+https://gfw.global/41Mz1yx
+
+
+Tahoe National Forest
+Deforest03
+Fire
+lat: 39°16'25.00"N
+long: 120°37'52.64"W
+https://gfw.global/3Pfu4Xn
+Calif "North Fire": https://www.fire.ca.gov/incidents/2018
+
+
+Deforestation01 38°48'46.19"N 120°21'7.80"W
+Deforestation02 41°15'24.89"N 121°22'59.24"W
+Deforestation03 39°16'25.00"N 120°37'52.64"W
+Deforestation04 40°13'46.24"N 121°13'5.90"W
+Deforestation05 40°59'16.24"N 122°31'57.35"W
+Deforestation06 46°13'10.45"N 121°16'50.41"W
+Deforestation07 46° 3'57.62"N 121°55'43.10"W
+Deforestation08 36°46'28.99"N 118°57'54.63"W
+Deforestation09 26°51'7.37"N  81°23'50.27"W
+Deforestation10 34°16'15.84"N 94°47'4.68"W
+Deforestation11 34°48'40.10"N 93°17'4.95"W
+Deforestation12 34°48'10.71"N 93°24'56.78"W
+Deforestation13 31°20'1.88"N  94° 6'56.37"W  
+Deforestation14 31°22'60.00"N 94° 5'1.26"W
+
+Deforestation03HR
+height (meters): 3189
+width (meters): 6282
+perimeter (meters): 18081
+area (square meters): 18419551
+
+
+Modoc National Forest, Northeastern California.
+Deforestation02HR (meters)
+height (meters): 2739
+width (meters): 4,127
+perimeter (meters): 12769
+area (square meters): 9,839,211
