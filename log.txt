@@ -1,0 +1,7 @@
+
+cd /mnt/c/crtusers/matei/prj/repos/GenerativeShift/docker/
+docker build -t pytorchgpu  -f Dockerfile .
+
+
+cd /mnt/c/crtusers/matei/prj/
+docker run --gpus=all -it --rm --name pytorchnightly -v $(pwd):/workspace:rw -p 8888:8888 pytorchgpu /bin/bash -c "jupyter lab --notebook-dir=/ --ip='*' --port=8888 --no-browser --allow-root"
