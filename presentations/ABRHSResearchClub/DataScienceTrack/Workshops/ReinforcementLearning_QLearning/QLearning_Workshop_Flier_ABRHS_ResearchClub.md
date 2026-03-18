@@ -71,8 +71,12 @@ Hands-on tutorial session focused on fundamentals of Reinforcement Learning for 
 
 ---
 
-**Presenter:**
+**Author:**
 
-Matei — ABRHS Research Club, Data Science Track
+Matei Iordanescu — ABRHS Research Club, Lead Data Science Track
 
-*Full interactive tutorial notebook available on GitHub: Mateiio/GenerativeShift*
+---
+
+**Tutorial Notebook:**
+
+[Access the full interactive tutorial notebook on GitHub](https://github.com/Mateiio/GenerativeShift/blob/main/presentations/ABRHSResearchClub/DataScienceTrack/Workshops/ReinforcementLearning_QLearning/notebook/ReinforcementLearning_QLearning_Workshop_ABRHS_ResearchClub.ipynb)
