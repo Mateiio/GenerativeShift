@@ -33,7 +33,7 @@ No prior AI knowledge required.</em></p>
 
 ## 1 — What is Agentic AI?
 
-<img src="assets/chatbot\_vs\_agent.png" width="700" alt="Chatbot vs Agent"/>
+<img src="assets/chatbot_vs_agent.png" width="700" alt="Chatbot vs Agent"/>
 
 |Feature|Chatbot|Agent|
 |-|-|-|
@@ -49,7 +49,7 @@ No prior AI knowledge required.</em></p>
 
 ## 2 — The Building Blocks of an Agent
 
-<img src="assets/building\_blocks.png" width="600" alt="Building blocks"/>
+<img src="assets/building_blocks.png" width="600" alt="Building blocks"/>
 
 |Component|Role|
 |-|-|
@@ -62,9 +62,9 @@ No prior AI knowledge required.</em></p>
 
 ## 3 — How Agents Think — the ReAct Loop
 
-<img src="assets/react\_loop.png" width="700" alt="ReAct loop"/>
+<img src="assets/react_loop.png" width="700" alt="ReAct loop"/>
 
-<img src="assets/react\_trace.gif" width="700" alt="ReAct animated trace"/>
+<img src="assets/react_trace.gif" width="700" alt="ReAct animated trace"/>
 
 ```python
 # The ReAct loop — pseudocode
@@ -82,7 +82,7 @@ if False:
 
 ## 4 — Tools and Function Calling
 
-<img src="assets/tool\_calling.png" width="700" alt="Tool calling flow"/>
+<img src="assets/tool_calling.png" width="700" alt="Tool calling flow"/>
 
 ```python
 def web\_search(query: str) -> str:
@@ -99,7 +99,7 @@ web\_search\_schema = {
 
 ## 5 — Memory and Context
 
-<img src="assets/memory\_types.png" width="700" alt="Memory types"/>
+<img src="assets/memory_types.png" width="700" alt="Memory types"/>
 
 |Type|Duration|Capacity|
 |-|-|-|
@@ -112,13 +112,13 @@ web\_search\_schema = {
 
 ## 6 — Multi-Agent Systems
 
-<img src="assets/multi\_agent.png" width="700" alt="Multi-agent patterns"/>
+<img src="assets/multi_agent.png" width="700" alt="Multi-agent patterns"/>
 
 \---
 
 ## 7 — Build Your Own Agent
 
-<img src="assets/agent\_architecture.png" width="600" alt="Agent architecture"/>
+<img src="assets/agent_architecture.png" width="600" alt="Agent architecture"/>
 
 Dependencies: `pip install anthropic`
 
