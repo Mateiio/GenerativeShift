@@ -7,7 +7,7 @@ No prior AI knowledge, no API key and no installs required.</em></p>
 
 <img src="assets/agent_trace.png" width="640" alt="Trace of one agent run: the model's steps in blue, your code's results in green"/>
 
-<p><a href="https://colab.research.google.com/github/Mateiio/GenerativeShift/blob/main/presentations/ABRHSResearchClub/DataScienceTrack/Workshops/IntroToAgents/notebook/IntroToAgents_Workshop_ABRHS_ResearchClub.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></p>
+<p><a href="https://colab.research.google.com/github/Mateiio/GenerativeShift/blob/main/presentations/ABRHSResearchClub/DataScienceTrack/Workshops/IntroToAgents/notebook/IntroToAgents_Workshop_ABRHS_ResearchClub.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://mateiio.github.io/GenerativeShift/presentations/ABRHSResearchClub/DataScienceTrack/Workshops/IntroToAgents/IntroToAgents_Workshop_ABRHS_ResearchClub.html"><img src="https://img.shields.io/badge/Open-interactive%20page-2563eb" alt="Open the interactive page"/></a></p>
 
 </div>
 
@@ -29,7 +29,7 @@ No prior AI knowledge, no API key and no installs required.</em></p>
 > **Files in this folder**
 >
 > - `notebook/IntroToAgents_Workshop_ABRHS_ResearchClub.ipynb`: the interactive notebook (runs in Colab, no API key needed)
-> - `IntroToAgents_Workshop_ABRHS_ResearchClub.html`: a standalone interactive version for reading or projecting
+> - `IntroToAgents_Workshop_ABRHS_ResearchClub.html`: a standalone interactive version for reading or projecting ([view it online](https://mateiio.github.io/GenerativeShift/presentations/ABRHSResearchClub/DataScienceTrack/Workshops/IntroToAgents/IntroToAgents_Workshop_ABRHS_ResearchClub.html))
 > - `IntroToAgents_README.md`: this file
 > - `IntroToAgents_Workshop_Flier_ABRHS_ResearchClub.md`: the workshop flier
 > - `assets/`: diagrams, charts and the agent trace
