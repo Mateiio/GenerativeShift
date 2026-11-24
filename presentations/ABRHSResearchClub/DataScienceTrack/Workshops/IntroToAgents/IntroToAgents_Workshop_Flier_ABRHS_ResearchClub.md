@@ -6,66 +6,36 @@
 
 Welcome to the "Intro to AI Agents Workshop", scheduled to take place on [Month Day, Year], within the Data Science track of the ABRHS Research Club.
 
-**Workshop Objective:** Hands-on introduction to AI agents: programs where a language model works in a loop, choosing tools and acting on the results until a task is done. Participants will run a working agent in the first ten minutes, open up its loop line by line, play the model's part themselves, and then break the agent five different ways to learn where agents fail and how to guard against it. No API key or installs needed.
+**Workshop Objective:** A first look at AI agents: programs that work toward a goal in a loop, deciding what to do next, using a tool and remembering what they found until they can answer. Participants will run the simplest possible agent, about 20 lines of plain Python, and change it to see how it chooses its own steps. No AI model, API key or installs needed.
 
 **Workshop Outline:**
 
-**Run an Agent First:**
+**What Is an Agent?:**
 
-* Run a working agent on weather data from a made-up school station, data no AI model has ever seen
-* Watch every step of the loop: thought → tool request → observation → answer
-* Why the agent needs tools: the answer isn't in any model's training data
+* The goal: find a city that's warm enough for the beach
+* The four parts of an agent: tool, brain, notes and loop
 
-**What Makes Something an Agent?:**
+**The Agent:**
 
-* One model call vs. a fixed workflow vs. an agent: who decides the steps?
-* When not to use an agent, and when one is worth the cost
-* Why this "agent" isn't the reinforcement-learning kind from the Q-Learning workshop
+* The whole agent in one cell
+* Watch it stop as soon as it has its answer
 
-**The Agent Loop, Line by Line (ReAct):**
+**Try It Yourself:**
 
-* ReAct: Reason + Act, where the model plans a step, asks for a tool, reads the result and repeats
-* The model only writes text; your code runs the tools
-* Stop reasons and step limits: how the loop knows when to stop
+* Change the list and the temperature, and watch the steps change
+* Make the agent crash, then add a rule to fix it
 
-**Tools — Giving Agents Hands:**
+**From Rules to AI Agents:**
 
-* A tool is a Python function plus a schema the model reads
-* Tool requests and tool results in Claude's message format
-* Hands-on: play the model yourself, then build a new tool
-
-**Memory:**
-
-* The messages list is the agent's working memory, re-sent on every step
-* Where memory lives (context window vs. files and databases) and what it holds (the task, facts, past events)
-* A notes file that survives between conversations, and retrieval (RAG) in brief
-
-**Where Agents Fail, and How to Guard Against It:**
-
-* Stuck loops and step limits; tool errors as feedback
-* The "negative rainfall" trap: a confident answer from misread data
-* Why small error rates add up over long tasks
-* Prompt injection, and defenses: fewer tools and human approval
-
-**Teams of Agents:**
-
-* Orchestrator, pipeline and reviewer patterns
-* What the research says: review helps most when it checks something real
-* When one agent beats many
-
-**Swap in a Real Model:**
-
-* The same loop running on Claude through the Anthropic API (optional, run by the presenter)
-* Compare the real model's steps with the scripted run
-* Challenges to try at home
+* Where a language model fits in: it becomes the brain
+* What stays the same: the tool, the notes and the loop
 
 **Prerequisites:**
 
-* No previous workshop completion required — this is self-contained
-* Familiarity helpful: what an LLM is, prompting, what an API is
-* Basic Python familiarity helpful but not required
+* No previous workshop completion required: this one is self-contained
+* Basic Python helpful but not required
 * Nothing to install and no API key needed: everything runs in Google Colab
 
-**Presenter:** Matei — ABRHS Research Club, Data Science Track
+**Presenter:** Matei, ABRHS Research Club, Data Science Track
 
 **Tutorial Notebook:** [Access the full interactive tutorial notebook on GitHub](https://github.com/Mateiio/GenerativeShift/tree/main/presentations/ABRHSResearchClub/DataScienceTrack/Workshops/IntroToAgents)
