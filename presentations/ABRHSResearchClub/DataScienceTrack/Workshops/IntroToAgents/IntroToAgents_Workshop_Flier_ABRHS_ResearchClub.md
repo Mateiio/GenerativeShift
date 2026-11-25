@@ -6,7 +6,7 @@
 
 Welcome to the "Intro to AI Agents Workshop", scheduled to take place on [Month Day, Year], within the Data Science track of the ABRHS Research Club.
 
-**Workshop Objective:** A first look at AI agents: programs that work toward a goal in a loop, deciding what to do next, using a tool and remembering what they found until they can answer. Participants will run the simplest possible agent, about 20 lines of plain Python, and change it to see how it chooses its own steps. No AI model, API key or installs needed.
+**Workshop Objective:** A first look at AI agents: programs that work toward a goal in a loop, where an LLM decides what to do next, a tool does it, and the agent remembers what it found until it can answer. Participants will run the simplest possible agent, about 20 lines of Python with a real LLM as its brain, and change it to see how the LLM chooses its steps. It runs in Google Colab with Colab's built-in LLM: free, no API key and nothing to install.
 
 **Workshop Outline:**
 
@@ -14,27 +14,27 @@ Welcome to the "Intro to AI Agents Workshop", scheduled to take place on [Month 
 
 * The goal: find a city that's warm enough for the beach
 * The four parts of an agent: tool, brain, notes and loop
+* The brain is an LLM
 
 **The Agent:**
 
 * The whole agent in one cell
-* Watch it stop as soon as it has its answer
+* One LLM call each time around the loop
 
 **Try It Yourself:**
 
-* Change the list and the temperature, and watch the steps change
-* Make the agent crash, then add a rule to fix it
+* Run it again and see whether the LLM takes the same steps
+* Change the goal and the list, and watch its choices change
 
-**From Rules to AI Agents:**
+**What the LLM Actually Does:**
 
-* Where a language model fits in: it becomes the brain
-* What stays the same: the tool, the notes and the loop
+* The model decides; the code runs the tool, keeps the notes and runs the loop
 
 **Prerequisites:**
 
 * No previous workshop completion required: this one is self-contained
 * Basic Python helpful but not required
-* Nothing to install and no API key needed: everything runs in Google Colab
+* A Google account for Colab; nothing to install and no API key needed
 
 **Presenter:** Matei, ABRHS Research Club, Data Science Track
 
